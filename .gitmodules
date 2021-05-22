@@ -7,4 +7,5 @@
 	path = rdocsyntax
 	url = https://github.com/kiendang/rdocsyntax
 	shallow = true
+	branch = v0.5.0
 	registered = true
