@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/kiendang/universe
-	shallow = true
 	branch = HEAD
 [submodule "rdocsyntax"]
 	path = rdocsyntax
 	url = https://github.com/kiendang/rdocsyntax
-	shallow = true
-	registered = true
