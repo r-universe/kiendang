@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/kiendang/universe
+	url = https://github.com/kiendang/kiendang.r-universe.dev
 	branch = HEAD
 [submodule "rdocsyntax"]
 	path = rdocsyntax
